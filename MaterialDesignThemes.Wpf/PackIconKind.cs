@@ -7264,6 +7264,7 @@ namespace MaterialDesignThemes.Wpf
         ShieldSync,
         ShieldSyncOutline,
         ShipWheel,
+        Helm=ShipWheel,
         Voyager=ShipWheel,
         ShoeFormal,
         ShoeHeel,
